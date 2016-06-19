@@ -21,7 +21,7 @@ public class Main extends Application
 {
 	private static final String WINDOW_TITLE = "Laparoscopy";
 
-	private static final double WINDOW_RESOLUTION_WIDTH = 800;
+	private static final double WINDOW_RESOLUTION_WIDTH = 700;
 
 	private static final double WINDOW_RESOLUTION_HEIGHT = 700;
 
