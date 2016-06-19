@@ -23,7 +23,7 @@ public class Main extends Application
 
 	private static final double WINDOW_RESOLUTION_WIDTH = 800;
 
-	private static final double WINDOW_RESOLUTION_HEIGHT = 700;
+	private static final double WINDOW_RESOLUTION_HEIGHT = 600;
 
 	private static final double AXES_RADIUS = 1;
 
